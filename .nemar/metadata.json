@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Intracranial recordings using BCI2000 and the CorTec BrainInterchange",
+  "description": "This dataset contains intracranial recordings acquired in humans using the CorTec BrainInterchange implantable device together with BCI2000 software. It supports the development of an ecosystem of technology and protocols for adaptive neuromodulation research. The data are shared in BIDS format with iEEG recordings.",
+  "methods_description": "Intracranial recordings were acquired using the CorTec BrainInterchange implantable device controlled with BCI2000 software, as part of an adaptive neuromodulation research ecosystem.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -17,6 +19,29 @@
     "G.A. Worrell": {},
     "K. J. Miller": {}
   },
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "neuromodulation"
+    },
+    {
+      "term": "brain-computer interface"
+    },
+    {
+      "term": "BCI2000"
+    },
+    {
+      "term": "CorTec BrainInterchange"
+    },
+    {
+      "term": "adaptive stimulation"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds004624.v2.0.0",
@@ -40,12 +65,12 @@
       "award_number": "U01NS128612"
     }
   ],
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
-    "20.7 GB (65064 files)"
+    "19.31 GB (65063 files)"
   ],
   "formats": [
     ".json",
@@ -55,28 +80,6 @@
     ".tmet",
     ".tsv",
     ".yml"
-  ],
-  "description": "This dataset comprises intracranial EEG recordings collected using the CorTec BrainInterchange implantable device and the BCI2000 software platform, developed as part of an ecosystem of technology and protocols for adaptive neuromodulation research in humans. The data support research into closed-loop neuromodulation approaches and adaptive brain-computer interface systems. Recordings were obtained under IACUC-approved protocols in collaboration with Mayo Clinic and academic partners.",
-  "methods_description": "Intracranial recordings were acquired using the CorTec BrainInterchange implantable device controlled with BCI2000 software, as part of an adaptive neuromodulation research ecosystem.",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "neuromodulation"
-    },
-    {
-      "term": "brain-computer interface"
-    },
-    {
-      "term": "BCI2000"
-    },
-    {
-      "term": "CorTec BrainInterchange"
-    },
-    {
-      "term": "adaptive neurostimulation"
-    }
   ],
   "source_hash": "2977c4f8e793a0987721a8bad4bb55f1bac093544dde1ea667e1757ecc9ec505"
 }
