@@ -1,4 +1,4 @@
-Unreleased 2026-10-19
+2.0.1 2026-10-22
   - 2026-10-19 electrode locations (revised 2026-10-22): add sub-c03 coordsystem.json (Other/mm; frame not documented for c03 and stated as such in its description; units inferred) (1 files). README: section 'Electrode locations'.
 
 2.0.0 2025-06-14
