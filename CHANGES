@@ -1,4 +1,5 @@
 2.0.1 2026-10-22
+  - Add missing TaskName from each existing recording filename task token; no new task interpretation, coordinate, reference, timing or signal values inferred. Preserve original JSON sidecars in the sourcedata archive.
   - 2026-10-19 electrode locations (revised 2026-10-22): add sub-c03 coordsystem.json (Other/mm; frame not documented for c03 and stated as such in its description; units inferred) (1 files). README: section 'Electrode locations'.
 
 2.0.0 2025-06-14

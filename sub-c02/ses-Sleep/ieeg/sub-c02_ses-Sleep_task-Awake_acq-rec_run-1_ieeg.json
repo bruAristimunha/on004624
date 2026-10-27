@@ -1,8 +1,9 @@
 {
-    "iEEGReference": "['CH26']",
-    "SamplingFrequency": 1000.0,
-    "PowerLineFrequency": 60,
-    "SoftwareFilters": "n/a",
-    "AmplificationFactor": "57.5dB",
-    "RecordingDurationSeconds": 869.1
+  "iEEGReference": "['CH26']",
+  "SamplingFrequency": 1000.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "AmplificationFactor": "57.5dB",
+  "RecordingDurationSeconds": 869.1,
+  "TaskName": "Awake"
 }

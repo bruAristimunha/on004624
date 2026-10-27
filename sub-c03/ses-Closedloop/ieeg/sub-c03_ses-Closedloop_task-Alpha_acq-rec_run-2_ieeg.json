@@ -1,8 +1,9 @@
 {
-    "iEEGReference": "['CH16']",
-    "SamplingFrequency": 1000.0,
-    "PowerLineFrequency": 60,
-    "SoftwareFilters": "n/a",
-    "AmplificationFactor": "57.5dB",
-    "RecordingDurationSeconds": 302.1
+  "iEEGReference": "['CH16']",
+  "SamplingFrequency": 1000.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "AmplificationFactor": "57.5dB",
+  "RecordingDurationSeconds": 302.1,
+  "TaskName": "Alpha"
 }

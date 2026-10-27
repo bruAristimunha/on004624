@@ -1,8 +1,9 @@
 {
-    "iEEGReference": "['CH0']",
-    "SamplingFrequency": 1000.0,
-    "PowerLineFrequency": 60,
-    "SoftwareFilters": "n/a",
-    "AmplificationFactor": "n/a",
-    "RecordingDurationSeconds": 121.0
+  "iEEGReference": "['CH0']",
+  "SamplingFrequency": 1000.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "AmplificationFactor": "n/a",
+  "RecordingDurationSeconds": 121.0,
+  "TaskName": "rec"
 }

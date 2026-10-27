@@ -1,8 +1,9 @@
 {
-    "iEEGReference": "['CH15']",
-    "SamplingFrequency": 1000.0,
-    "PowerLineFrequency": 60,
-    "SoftwareFilters": "n/a",
-    "AmplificationFactor": "45.5dB",
-    "RecordingDurationSeconds": 64.5
+  "iEEGReference": "['CH15']",
+  "SamplingFrequency": 1000.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "AmplificationFactor": "45.5dB",
+  "RecordingDurationSeconds": 64.5,
+  "TaskName": "Stimulation"
 }
